@@ -21,8 +21,8 @@ There is not a actual output in this code, but it contains a algorithm to codify
 - CPP
 
 
-### Authors
+# Authors
 - Rafhael Josino Lima
 
-### Contact
+# Contact
 - rafhael_josino1@hotmail.com
